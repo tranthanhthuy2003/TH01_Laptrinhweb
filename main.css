@@ -1,0 +1,67 @@
+
+.Cac_tag {
+    background-color:green;
+     font-size: 18px;
+      color: white;
+      font-size: 18px 
+     }
+
+.Cac_tag1 {
+    
+    background-color:green;
+     font-size: 17px;
+      color: white;
+      font-size: 17px 
+     }
+
+    .newsletter
+    {
+       width: 900px; 
+       height: 900 px;
+       background-color: rgb(235, 231, 231);
+       content: icon ; text-align: center;
+    }
+    .DANGKI {
+        width: 900px; 
+       heighT:200px;
+       background-image:url(https://img1.kienthucvui.vn/uploads/2021/02/12/hinh-anh-ca-phe-dep-nhat_045434039.jpg);
+       background-repeat: no-repeat;
+       background-size: 100%;
+       text-align: center;
+    }
+
+    .sinhvien 
+    {
+        width: 900px; 
+       heighT: 140px;
+       background-image:url(https://tse3.mm.bing.net/th?id=OIP.MHtWbvKpMHEp8x_sDXLfmQHaEo&pid=Api&P=0&h=220);
+       background-repeat: no-repeat;
+       background-size: 100%;
+       text-align: center;
+    }
+      .stats-container {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        color:yellow;
+        padding: 20px;
+      }
+      .stats-item {
+        text-align: center;
+      }
+      .stats-icon {
+        margin-bottom: 15px;
+      }
+      .stats-number {
+        font-size: 2em;
+        font-weight: bold;
+      }
+      .stats-text {
+        font-size: 0.9em;
+      }
+   
+
+   
+      
+    
+
